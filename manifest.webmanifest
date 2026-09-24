@@ -1,0 +1,10 @@
+{
+  "name": "HERCARE maternal and women's health",
+  "short_name": "HERCARE",
+  "description": "Your care, connected across every stage.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f6f2",
+  "theme_color": "#315c4d",
+  "icons": []
+}
