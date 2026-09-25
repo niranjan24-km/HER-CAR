@@ -1,8 +1,0 @@
-{
-  "name": "hercare-platform",
-  "version": "1.0.0",
-  "private": true,
-  "description": "HERCARE maternal and women's health platform demo",
-  "scripts": { "start": "node server.js" },
-  "engines": { "node": ">=22.13" }
-}
